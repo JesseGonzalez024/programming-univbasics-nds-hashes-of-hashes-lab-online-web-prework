@@ -48,7 +48,7 @@ def naming_system
     
     {label: "Order"}
     
-    {label: "Family", {label: "Genus"}}
+    
     
     {label: "Species", {sub_category: nil}}
     
