@@ -45,6 +45,7 @@ def naming_system
   naming_system = {
     PORTION_1 = {label: "Kingdom" {label: "Phylum" {label: "Class"}}},
     
+    PORTION_2 = {label: "Order"}
     
   }
 
