@@ -44,13 +44,13 @@ def naming_system
 
   naming_system = {
     
-    label: "Kingdom" =>
-    {label: "Phylum" =>
-    {label "Class" =>
-    {label: "Order" =>
-    {label: "Family" => 
-    {label: "Genus" =>
-    {label: "Species" =>
+    label: "Kingdom"
+    {label: "Phylum"
+    {label "Class"
+    {label: "Order"
+    {label: "Family"
+    {label: "Genus"
+    {label: "Species"
     {sub_category: nil}
       
                 }
@@ -59,6 +59,7 @@ def naming_system
           }
         }
       }
+    
     return naming_system
 
 end
