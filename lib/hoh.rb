@@ -44,10 +44,12 @@ def naming_system
 
   naming_system = {
     
-    {label: "Kingdom" {label: "Phylum" {label "Class" {label: "Order" {label: "Family", {label: "Genus" {label: "Species", {sub_category: nil}
+    label: "Kingdom" {label: "Phylum" {label "Class" {label: "Order" {label: "Family", {label: "Genus" {label: "Species", {sub_category: nil}
       
-    }}}}}}}
+    }}}}}}
+    
   }
+  
 end
 
 naming_system
