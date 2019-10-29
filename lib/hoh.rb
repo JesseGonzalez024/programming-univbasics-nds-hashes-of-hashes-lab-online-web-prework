@@ -44,7 +44,7 @@ def naming_system
 
   naming_system = {
     
-    {label: "Kingdom", {label: "Phylum", {label "Class" {label: "Order" } }}},
+    {label: "Kingdom", {label: "Phylum", {label "Class" {label: "Order" {label: "Family", {label: "Genus"}}} }}},
     
     {label: "Order"}
     
