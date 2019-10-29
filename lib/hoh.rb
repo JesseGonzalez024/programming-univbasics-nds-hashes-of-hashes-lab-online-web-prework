@@ -46,11 +46,11 @@ def naming_system
     
     label: "Kingdom" =>
     {label: "Phylum" =>
-    {label "Class" 
-    {label: "Order" 
-    {label: "Family" 
-    {label: "Genus" 
-    {label: "Species" 
+    {label "Class" =>
+    {label: "Order" =>
+    {label: "Family" => 
+    {label: "Genus" =>
+    {label: "Species" =>
     {sub_category: nil}
       
                 }
