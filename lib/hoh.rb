@@ -43,11 +43,11 @@ def naming_system
   # HoH all the way to Species!
 
   naming_system = {
-    PORTION_1 = {label: "Kingdom" {label: "Phylum" {label: "Class"}}},
+    PORTION_1 = {label: "Kingdom" {label: "Phylum" {label "Class"}}},
     
     PORTION_2 = {label: "Order"}
     
-    
+    PORTION_3 = {label: "Family" {label: "Genus"}}
     
   }
 
